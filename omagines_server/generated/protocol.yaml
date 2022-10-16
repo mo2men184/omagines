@@ -1,0 +1,21 @@
+admin:
+  - addWallpaper:
+  - getUploadDescription:
+  - verifyUpload:
+  - removeFile:
+  - updateWallpaper:
+  - deleteWallpaper:
+  - checkFileExist:
+  - getFilePublicUrl:
+  - addCategory:
+  - removeCategory:
+  - getCategories:
+users:
+  - addUser:
+  - getUser:
+  - updateUser:
+wallpapers:
+  - hello:
+  - getWallpapers:
+  - getWallpapersFromSearch:
+  - getWallpapersFromCategory:
